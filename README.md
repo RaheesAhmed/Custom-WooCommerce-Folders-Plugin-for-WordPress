@@ -56,4 +56,4 @@ Feel free to open issues or submit pull requests to improve the plugin.
 
 ## License
 
-This plugin is open-source and free to use.
+Not Allowed for personal use without permission.
