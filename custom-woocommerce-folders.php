@@ -3,7 +3,7 @@
  * Plugin Name: Custom WooCommerce Folders
  * Description: Create custom folders in the WordPress uploads directory for WooCommerce products.
  * Version: 1.0
- * Author: Your Name
+ * Author: Rahees Ahmed
  */
 
 // Include the admin page
